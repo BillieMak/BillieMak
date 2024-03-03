@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **NuxtJS**
 
-- 👨‍💻 All of my projects are available at [davidrj.me](davidrj.me)
+- 👨‍💻 All of my projects are available at [https://davidrj.me/](https://davidrj.me/)
 
 - 💬 Ask me about **Vue, TailwindCSS SpringBoot**
 
